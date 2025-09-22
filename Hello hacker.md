@@ -1,5 +1,5 @@
 # Intro to Commands
-execute the whoami command and  invoke the hello command to get the flag
+Invoke commands 
 
 ## My solve
 **Flag:** `pwn.college{cYopHUjQRwb_spnqhgt-iZEpwtA.QX3YjM1wSOzgjNzEzW}`
