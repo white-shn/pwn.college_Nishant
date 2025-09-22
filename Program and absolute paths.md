@@ -4,7 +4,7 @@ To invoke the run program in challenge directory .
 ## My solve
 **Flag:** `pwn.college{UPlFOFLNwAjHG9PW3xEyu5CWN5I.QX1QTN0wSOzgjNzEzW}`
 
-In this challenge , we had to invoke the run program in challenge directory and the challegene directory is in the root directory . 
+In this challenge , we had to invoke the run program in challenge directory and the challenge directory is in the root directory . 
 To inovke a program we need to write it's path. The path to challenge directory is '/challenge'
 The path to run program is '/challenge/run' because the program is in the challenge directory . 
 When you press enter , you'll get the flag .
