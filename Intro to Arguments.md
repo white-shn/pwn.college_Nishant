@@ -1,4 +1,4 @@
-# Challenge Name
+# Intro to arguments
 In this challenge requires to  run the hello command with argument of hackers to get the flag
 
 ## My solve 
