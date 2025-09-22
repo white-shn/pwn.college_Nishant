@@ -1,7 +1,8 @@
 # Intro to Commands
 execute the whoami command and  invoke the hello command to get the flag
 
-## hacker@hello~intro-to-commands:~$ whoami
+## My solve
+hacker@hello~intro-to-commands:~$ whoami
 hacker
 hacker@hello~intro-to-commands:~$ hello
 Success! Here is your flag:
