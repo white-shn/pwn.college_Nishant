@@ -22,4 +22,4 @@ Invoke a program in a directory . To invoke the program we need to write it's pa
 In this program we executed the run program which is in the challenge directory(the challenge directory is in root directory) by writing it's path which is '/challenge/run' . 
 
 ## References 
-Slies of the video in pwn.college
+Slides of the video in pwn.college
