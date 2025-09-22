@@ -17,6 +17,7 @@ pwn.college{cYopHUjQRwb_spnqhgt-iZEpwtA.QX3YjM1wSOzgjNzEzW}
 
 
 ## What I learned
+I got familiar with wsl.
 learned to execute the whoami commands  which prints my username .
 Then learned to invoke the hello command which gave the flag
 ## References 
