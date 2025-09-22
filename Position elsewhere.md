@@ -4,13 +4,15 @@ execute the /challenge/run program from a specific path
 ## My solve
 **Flag:** `pwn.college{QbsvhXiI0gijtXwILSeVhayPGbs.QX3QTN0wSOzgjNzEzW}`
 
-Firstly I used the pwd command to get my current working directory which I got as /home.
+Firstly I executed the /challenge/run program without getting in the specified directory which helped me get the name of the specified directory.
 Then using cd command I get in the directory .(cd /home)
 After this I write the path of the program to execute it . (/challenge/run)
 
 ```bash
-hacker@paths~position-elsewhere:~$ pwd
-/home/hacker
+/cjuahacker@paths~position-elsewhere:~$ /challenge/run
+Incorrect...
+You are not currently in the /home directory.
+Please use the `cd` utility to change directory appropriately.
 hacker@paths~position-elsewhere:~$ cd /home
 hacker@paths~position-elsewhere:/home$ /challenge/run
 Correct!!!
@@ -19,10 +21,12 @@ Here is your flag:
 pwn.college{QbsvhXiI0gijtXwILSeVhayPGbs.QX3QTN0wSOzgjNzEzW}
 hacker@paths~position-elsewhere:/home$
 
+
+
 ```
 
 ## What I learned
-I learned that using pwd you can view you current working directory .
+We can get to know the directory in which a particular program is by writing it's ABSOULTE path. 
 I got familiar with the cd command which i used to get in the directory in which the /challenge/run program was there . 
 I got familiar with writing the path of a program to execute it .
 ## References 
