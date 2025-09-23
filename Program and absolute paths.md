@@ -18,8 +18,9 @@ hacker@paths~program-and-absolute-paths:~$
 ```
 
 ## What I learned
-Invoke a program in a directory . To invoke the program we need to write it's path. 
-In this program we executed the run program which is in the challenge directory(the challenge directory is in root directory) by writing it's path which is '/challenge/run' . 
+To invoke a program in a directory . 
+To invoke the program we need to write it's path. 
+In this task we executed the run program which is in the challenge directory(the challenge directory is in root directory) by writing it's path which is '/challenge/run' . 
 
 ## References 
 Slides of the video in pwn.college
