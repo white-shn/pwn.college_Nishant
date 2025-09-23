@@ -4,9 +4,12 @@ Invoke the the pwn program in /(root directory)
 ## My solve
 **Flag:** `pwn.college{sK8Zp51QiV_iNgLH28q2HSziVdu.QX4cTO0wSOzgjNzEzW}`
 
-we have to invoke the pwn programm in the root direectly and we can do that by providing it's path ,
+We have to invoke the pwn programm in the root and we can do that by providing it's path ,
+
 The path will be '/pwn' . Press enter and you'll get the flag.
+
 This type of path starting with the root directory is called absolute path.
+
 ```bash
 hacker@paths~the-root:~$ /pwn
 BOOM!!!
