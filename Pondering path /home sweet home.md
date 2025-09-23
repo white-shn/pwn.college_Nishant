@@ -25,6 +25,7 @@ hacker@paths~home-sweet-home:~$
 ## What I learned
 ~ is a shorthand for /home/hacker.
 Learned copying flag in a file by passing it as an argument .
+Also when expansion of ~ is a absolute path , only the leading ~ is expanded i.e ~/~ will be expanded as /home/hacker and not as /home/hacker/home/hacker
 
 ## References
 None
