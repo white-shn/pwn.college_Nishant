@@ -8,6 +8,7 @@ I directly executed the /challenge/run program which helped me get the name of t
 then used cd command to get in the directory (cd /).
 
 After this I executed the program by writing the relative path of the program (challenge/run) which gave me the flag .
+
 ```bash
 hacker@paths~implicit-relative-paths-from-:~$ /challenge/run
 Incorrect...
@@ -23,9 +24,10 @@ hacker@paths~implicit-relative-paths-from-:/$
 ```
 
 ## What I learned
-I learned that cwd is my current working directory and that a relative part doesn't start with root (i.e. it doesn't start with /).
+I learned that cwd is my current working directory and that a relative path doesn't start with root (i.e. it doesn't start with /).
 
 Then I learned to execute a program by writing it's relative path. 
+
 ## References 
 Slies of the video in pwn.college
 
