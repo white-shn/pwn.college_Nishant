@@ -13,7 +13,8 @@ hacker@commands~cat-not-the-pet-but-the-command:~$
 ```
 
 ## What I learned
-Got familiar with cat command 
+Got familiar with cat command .<br>
+cat command is most often used to read files .
 
 ## References 
 None
