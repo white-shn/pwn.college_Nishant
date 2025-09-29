@@ -32,5 +32,5 @@ hacker@piping~grepping-stored-results:~$
 ## What I learned 
 Learned to redirect output of progams to a file and search a string in a file using grep. 
 
-## Resources 
+## References 
 None
