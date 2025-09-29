@@ -1,10 +1,10 @@
 ## Redirecting more output
-
+ Redirect the output of /challenge/run to myflag to get the flag . 
 
 ## My solve
 **Flag:** `pwn.college{oEvTF4PNFKffPOrN20GIc3_bNbC.QX1YTN0wSOzgjNzEzW}`
 
-We can redirirect the output of any command . In this challenge we had to redirect the output of /challenge/run to the file 'myfile' .<br>
+I redirected the output of /challenge/run to the file myflag using '>'<br>
 After this I read the ' myflag' file using cat command and got the flag.
 
 ```bash
