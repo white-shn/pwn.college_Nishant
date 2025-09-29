@@ -75,5 +75,6 @@ Instead we should use '>>' which won't overwrite the previous result .
                                                                                                                                         
 
 ## References
-None
+Resources given in pwn.college
+
 
