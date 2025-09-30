@@ -1,4 +1,5 @@
 ## Setting Variables
+Set the PWN variable to the value COLLEGE
 
 ## My solve
 **Flag:** `pwn.college{Yh9pNnyDfOvZFK5_uKX4nUUaMsl.QX5UTN0wSOzgjNzEzW}`
