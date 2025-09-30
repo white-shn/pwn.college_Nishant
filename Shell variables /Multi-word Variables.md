@@ -1,4 +1,5 @@
 ## Multi-word Variables
+Set the variable PWN to COLLEGE YEAH
 
 ## My solve
 **Flag:** `pwn.college{0cxmMsrCx8zledTxz2jnuLc0YIA.QXwYTN0wSOzgjNzEzW}`
