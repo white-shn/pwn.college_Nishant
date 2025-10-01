@@ -4,7 +4,7 @@ move the flag file into /tmp/hack-the-planet and execute /challenge/check to get
 ## My solve
 **Flag:** `pwn.college{Eq0tq4drdXNOGb9ZN0pZle-INyN.0VOxEzNxwSOzgjNzEzW}`
 
-I used the mc command to move the /flag file into /tmp/hack-the-planet and executed /challenge/check 
+I used the mv command to move the /flag file into /tmp/hack-the-planet and executed /challenge/check 
 ```bash
 hacker@commands~moving-files:~$ mv /flag /tmp/hack-the-planet
 Correct! Performing 'mv /flag /tmp/hack-the-planet'.
